@@ -80,7 +80,8 @@ Tento návod vychází z předpokladu, že uživatelský účet má oprávnění
 
 - Pro jeden *TCA Scope* je možné vytvořit libovolné množství klíčů. To může být užitečné například v případě ztráty původního klíče nebo při potřebě propojit jeden časopis s více systémy či prostředími.
 - Další klíč lze v seznamu propojení vytvořit pomocí odkazu **Create New Key**.
-
+---
+---
 ### Nastavení v prostředí OJS
 
 **Instalace pluginu**
