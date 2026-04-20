@@ -121,6 +121,7 @@ Tento návod vychází z předpokladu, že uživatelský účet má oprávnění
 - V manuálním režimu je nutné mezi jednotlivými kroky krátce vyčkat na dokončení zpracování požadavku. Pokud je další krok spuštěn příliš brzy, může systém vrátit chybu, že předchozí operace ještě nebyla dokončena. V průběhu workflow budete vždy vyzváni k potvrzení jednotlivých akcí.
 
 ---
+Kontrola plagiátů se provádí přímo v příspěvku v seznamu souborů.
 
 *1. Provést kontrolu plagiátorství / Conduct Plagiarism Check*
 - Spustí nahrávání souboru do systému iThenticate.
