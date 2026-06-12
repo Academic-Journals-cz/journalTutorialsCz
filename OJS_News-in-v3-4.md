@@ -4,7 +4,7 @@
 
 OJS 3.4 přineslo několik úprav do redakčního workflow:
 
-**Nový a vylepšený průvodce odesláním příspěvku.** 
+### Nový a vylepšený průvodce odesláním příspěvku.
 
 Nyní je možné rozpracovaný příspěvek průběžně ukládat, změnit jeho jazyk a nastavit soubor (komponentu) jako povinný. 
 
@@ -12,19 +12,19 @@ Podrobněji se můžete na úpravy podívat na následujících odkazech: [Odesl
 
 ![Odeslání příspěvku](/images/OJS_News-in-v3-4/submission_process.png)
 
-**Vylepšený proces zadávání redakčních rozhodnutí.** 
+### Vylepšený proces zadávání redakčních rozhodnutí.
 
 Při zasílání rozhodnutí lze do polí kopie / skrytá kopie (CC/BCC), během přípravy oznámení autorovi, přidat libovolný e‑mail a vložit další obsah. Kopii oznámení lze poslat recenzentům na samostatné obrazovce, která používá e‑mailovou šablonu určenou recenzentům a zachovává anonymitu vůči autorům. Podrobnosti viz [Rozhodnutí](https://docs.pkp.sfu.ca/learning-ojs/3.4/en/editorial-workflow#making-the-decision).
 
 ![Zasílání rozhodnutí](/images/OJS_News-in-v3-4/decision_form.png)
 
-**Možnost zrušit fázi nebo recenzní kolo.** 
+### Možnost zrušit fázi nebo recenzní kolo.
 
 Nově lze zrušit omylem zahájené recenzní kolo – pokud už recenzent neodevzdal recenzi. Lze také zrušit celou fázi a vrátit příspěvek do předchozí fáze (např. z redakčních úprav zpět do recenze), volitelně s upozorněním autora na tuto změnu. Podrobnosti viz [Další kolo recenze](https://docs.pkp.sfu.ca/learning-ojs/3.4/en/editorial-workflow#additional-round-of-review).
 
 ![Zrušení fáze](/images/OJS_News-in-v3-4/cancel_stage.png)
 
-**Vylepšené nástroje pro úpravu šablon e‑mailů.** 
+### Vylepšené nástroje pro úpravu šablon e‑mailů.
 
 OJS 3.4 přináší nové nástroje pro úpravu e‑mailů, včetně možnosti vytvářet více šablon a přepínat mezi nimi. U každého e‑mailu je přehled dostupných proměnných, které lze vložit tlačítkem „Vložit obsah". Hodnoty proměnných (např. jméno autora) si lze před odesláním zobrazit v náhledu. Výchozí sada e‑mailových šablon byla přepsána tak, aby byla vstřícnější a inkluzivnější. Podrobnosti viz [Nastavení e‑mailů](https://docs.pkp.sfu.ca/learning-ojs/3.4/en/settings-workflow#email-setup).
 
