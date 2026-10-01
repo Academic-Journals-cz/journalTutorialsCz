@@ -14,10 +14,10 @@ Následující přehled shrnuje, co jednotlivé doplňky dělají a co z nich re
 ### Indexace v databázích (journalDbFinderAj)
 
 Postranní blok, který ukazuje, ve kterých databázích je časopis indexován. Aktuálně jsou v pluginu nasazeny tyto databáze a indexační nástroje: DOAJ, Scopus,
-Web of Science, Crossref, OpenAIRE, CEEOL, CORE, Dimensions, GoTriple, OpenAlex,
+Web of Science, Crossref, OpenAIRE, CEEOL, CORE, Dimensions, GoTriple, OpenAlex, Semantic Scholar, Dimond Discovery Hub, FatCat, ERIH+, EBSCO
 PubMed, ROAD a Redalyc. V části databází se časopis vyhledává automaticky pomocí akce v pluginu, a to podle názvu
 časopisu **i** ISSN zároveň. U databází, které automatické vyhledávání neumožňují se pak dá přidat odkaz na databázi ručně
-U každé nalezené databáze se zobrazí logo s odkazem přímo na záznam časopisu.
+U každé nalezené databáze se zobrazí logo s odkazem přímo na záznam časopisu v blokovém pluginu.
 
 ### O časopisu (journalInfoAj)
 
@@ -31,8 +31,7 @@ forma vydávání a klíčová slova. Zobrazí se pouze vyplněné – nevyplně
 ### Statistiky a metriky (citationMetricsAj)
 
 Na stránce článku zobrazí dlaždice s počtem citací ze tří zdrojů: **Crossref Cited-by**,
-**Scopus Cite Score** a **Web of Science InCites**. U Crossrefu se po kliknutí rozbalí seznam prací, které
-článek citují; u Scopusu a Web of Science dlaždice odkazuje na záznam v dané databázi.
+**Scopus Cite Score**, **Web of Science InCites**, **citace v OpenAlex**, **citace v Semantic Scholars** a proklik na vyhledání článku v **Google Scholar**. U Crossrefu se po kliknutí rozbalí seznam prací, které článek citují; u Scopusu, Web of Science, OpenAlex a Semantic Scholar dlaždice odkazuje na záznam v dané databázi.
 
 Zdroj se zapne tím, že se k němu vyplní přístupové údaje – bez nich se dlaždice nezobrazí.
 Výsledky se ukládají a obnovují jednou týdně, takže stránka článku nemusí načítat data opakovaně a zůstává rychlá.
